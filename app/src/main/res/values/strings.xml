@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC challenge 1 Khmaies Hassen</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_profile">MY PROFILE</string>
+    <string name="btn_about">ABOUT ALC</string>
+    <string name="main_text">Welcome to ALC 4.0</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="main_toolbar_title">ALC 4 Phase 1</string>
+    <string name="about_toolbar_title">About ALC</string>
+    <string name="profile_toolbar_title">My profile</string>
+
+    <string name="rationale_internet">This app needs access to internet so you can take read the about section.</string>
+
+
+</resources>

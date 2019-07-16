@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alcchallenge1khmaieshassen.MainActivity">
+    <item
+        android:checkable="false"
+        android:checked="false"
+        android:icon="@drawable/andela_logo_landscape_blue"
+        android:title="andela"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>
